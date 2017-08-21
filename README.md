@@ -19,7 +19,7 @@ factors_affect_car_parking_polynomial.R
 Invent_Car_Parking.ipynp
 Library_Car_Parking.iPandas method get_dummies to create dummy features of the nominal variable(Holiday). After splitting “Holiday” column according to factors 
 
-2.Data Files
+2. Data Files
 It contains all data files according to data stagesfor Creche,Library and Invent
 Folder 1-
 Initial  Manual Files_1-It contains 50 observations from 14 Feb-29 May recorded manually at different timings.
@@ -37,10 +37,10 @@ Multistorey Data City Centre-Contains scraped data from Dublincity website from 
 Folder 7:
 Surveys:-Contains Surveys 2013,2016 and 2017 used for this study.
 
-3.Visulaization
+3. Visualisation
 It contains visualisation for parking trend and their respective Data Files
 
-Final Report.
+4. Final Report.
 
 
 
